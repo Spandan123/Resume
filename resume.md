@@ -4,13 +4,14 @@
 
 ### <p align= "center"> github : https://github.com/Spandan123/ linkedin : https://www.linkedin.com/in/spandan-das-907573248/</p>
 
+<br>
 > ## About
 
 Student at Jadavpur University, Computer Science Department 3rd Year.
 Interested in the fields of machine learning and deep learing like generative models, statistics.
 Avid learner and passionate about work and studies.
 
-(&nbsp;)
+<br>
 
 > ## Projects
 
@@ -27,7 +28,7 @@ Developed a range sales predictor of 10 wallmart stores in WI, TX and CA of USA.
 Involved removing seasonality of various types like multiplicative seasonality yearwise and daily seasonality.
 Consideration of special events like holidays. Used prophet model for prediction.
 
-(&nbsp;)
+<br>
 
 > ## College Project
 
@@ -35,7 +36,7 @@ Consideration of special events like holidays. Used prophet model for prediction
 
 Developed lexer, parser, CFG and symbol table for a simple C-like compiler which included for loops, operators, data structures like enums and structs, functions and pragmas.
 
-(&nbsp;)
+<br>
 
 > ## Achievements
 
@@ -55,7 +56,7 @@ JEE Advanced Rank - 2801
 
 JEE Main Rank - 3018 (99.72 percentile)
 
-(&nbsp;)
+<br>
 
 > ## Education
 
@@ -65,7 +66,7 @@ JEE Main Rank - 3018 (99.72 percentile)
 | 12th Standard              | Birla High School, C.B.S.E. | Science              | 97.8%                       |
 | 10th Standard              | Birla High School, C.B.S.E. | All                  | 96.8%                       |
 
-(&nbsp;)
+<br>
 
 > ## Skills
 
@@ -83,7 +84,7 @@ Java
 
 Problem Solving
 
-(&nbsp;)
+<br>
 
 > ## Languages
 
