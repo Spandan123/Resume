@@ -1,11 +1,12 @@
 <div style="font-size: 1.5em; color: #2E86C1; font-weight: bold; text-align: center;">Spandan Das</div>
-<div style="font-size: 1.2em; color: #2C3E50;text-align:center"><a href="mailto:spandan.das@pwc.com">spandan.das@pwc.com | </a> +91-9073793426 | <a href="https://www.linkedin.com/in/spandan-das-907573248/">LinkedIn</a> | <a href = "https://github.com/spandan123/"> Github </a> </div> <hr>
+<div style="font-size: 1.2em; color: #2C3E50;text-align:center"><a href="mailto:spandanbhs@gmail.com">spandanbhs@gmail
+.com | </a> +91-9073793426 | <a href="https://www.linkedin.com/in/spandan-das-907573248/">LinkedIn</a> | <a href = "https://github.com/spandan123/"> Github </a> </div> <hr>
 
 ## <div style="font-size: 1.2em; color: #2874A6;">Education</div>
 
 | Degree and Year of Passing | University/Board            | Major/Specialization | Percentage/Grade (scale 10) |
 | -------------------------- | --------------------------- | -------------------- | --------------------------- |
-| B.E., 2025                 | Jadavpur University         | Computer Science     | 8.54 (till 6th semester)    |
+| B.E., 2025                 | Jadavpur University         | Computer Science     | 8.54 (till 5th semester)    |
 | 12th Standard, 2021        | Birla High School, C.B.S.E. | Science              | 97.8%                       |
 | 10th Standard, 2019        | Birla High School, C.B.S.E. | All                  | 96.8%                       |
 
