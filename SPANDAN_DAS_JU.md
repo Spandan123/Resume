@@ -29,7 +29,7 @@
 **Intern | PricewaterhouseCoopers**  
 _June - August 2024_
 
-- Developed a decentralized digital platform for pharmaceutical supply chain management to accurately track shipments and batches.
+- Developed a **decentralized digital platform** for a large pharmaceutical supply chain management system to accurately track shipments and batches of vital medicines.
 - **Technologies**: Blockchain, Ethereum, Solidity, Kaleido
 
 ---
