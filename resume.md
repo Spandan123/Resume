@@ -37,10 +37,10 @@ _June - August 2024_
 ## Projects
 
 **Density Estimation Using Normalizing Flow** (Ongoing)  
-_Under Prof. Srinjoy Das, University of West Virginia_
+_Under Prof. Srinjoy Das, University of West Virginia, School of Mathematical and Data Sciences_
 
 - Building a multidimensional time-series predictor using **Normalizing Flows** (MAF) and **Copulas** (IGC) for efficient predictions, with applications in **anomaly detection**.
-- **Technologies**: PyTorch, TensorFlow, scikit-learn, Pandas, NumPy
+- **Technologies**: PyTorch, TensorFlow, scikit-learn, Pandas, NumPy, R
 
 **Sales Prediction**
 
