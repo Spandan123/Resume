@@ -16,11 +16,11 @@
 
 ## Skills
 
-- **Languages**: C, Python, Java, C++
-- **Frameworks**: React, Node.js
+- **Languages**: Python, C, Java, C++
+- **Frameworks**: React, Node.js, Express.js, Web3.js
 - **Tools**: Git, Docker
 - **Databases**: MySQL, MongoDB
-- **Other**: Mathematics, Statistics, Machine Learning
+- **Other**: Mathematics, Statistics, Machine Learning, Blockchain
 
 ---
 
