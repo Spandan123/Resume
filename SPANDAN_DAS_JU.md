@@ -42,11 +42,17 @@ _Under Prof. Srinjoy Das, University of West Virginia, School of Mathematical an
 - Building a multidimensional time-series predictor using **Normalizing Flows** (MAF) and **Copulas** (IGC) for efficient predictions, with applications in **anomaly detection**.
 - **Technologies**: PyTorch, TensorFlow, scikit-learn, Pandas, NumPy, R
 
+**Large Scale Energy Farm Output Prediction**
+
+- Created 4 different models and then stacked them in an ensemble to form a more robust and accurate model for predicting the power output of a large scale wave energy farm
+- Acheived **MAPE = 0.014** and **R2 score >0.98** for the final ensemble
+- **Tech Stack**: tensorflow, scikit-learn, numpy and pandas
+
 **Sales Prediction**
 
 - Created a sales predictor model for 10 Walmart stores in the U.S., removing seasonal effects and considering special events like holidays.
 - Achieved **MAPE < 0.05**, capturing both seasonality and general trend accurately.
-- **Tool**: Prophet Model
+- **Tech Stack and concepts**: Prophet Model, time series prediction, numpy, pandas, scikit-learn
 
 **C-like Compiler Analysis Phase**
 
